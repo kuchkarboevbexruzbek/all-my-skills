@@ -1,0 +1,146 @@
+# Skill catalog
+
+Auto generated from the installed skills. One line per skill: `name` then what it does and when to use it.
+
+- `a-b-test-design`: Design an A/B experiment — hypothesis, variants, primary metric, and sample size. Use when a change can be measured quantitatively at scale.
+- `accessibility-audit`: Audit an existing interface against WCAG, producing findings with severity ratings and remediation steps. Use when you have a design or build to assess now.
+- `accessibility-test-plan`: Plan accessibility testing — assistive technologies, participant criteria, WCAG coverage, and session protocol. Use when scheduling testing with real AT users.
+- `aesthetic-usability`: Apply the Aesthetic-Usability Effect — polished, consistent interfaces are perceived as more usable and forgive minor friction. Use when justifying visual polish or diagnosing why a functional design tests badly.
+- `affinity-diagram`: Cluster many qualitative data points into themes and insight statements. Use when synthesising across multiple sessions or sources.
+- `animation-principles`: Apply animation principles — easing, staging, follow-through — to one specific UI motion. Use when tuning how an animation feels.
+- `behavioural-analytics`: Read funnels, retention curves, and event data as a designer — separating a design problem from a tracking artefact. Use when handed product data you did not design and asked why people drop off.
+- `brand`: Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.
+- `brand-guidelines`: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.
+- `business-design`: Read financials, map competitive landscapes, and argue design decisions in the language of value. Use when defending design to commercial stakeholders.
+- `canvas-design`: Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece.
+- `card-sort-analysis`: Analyse open or closed card sort results into a proposed grouping and label set. Use after running a sort study.
+- `case-study`: Craft a portfolio case study with narrative arc, process evidence, and outcomes. Use when telling a project's story to an external audience.
+- `click-test-plan`: Design first-click and click tests for findability and navigation. Use when testing whether people can locate something.
+- `color-system`: Build a product colour system — tonal scales, semantic roles, and contrast compliance. Use when defining or rebuilding colour from scratch.
+- `competitive-analysis`: Compare UX patterns, features, strengths, and gaps across rival products. Use when you need to know what others actually do.
+- `component-spec`: Specify one component — props, states, variants, accessibility, and usage rules. Use when defining a library component.
+- `concept-selection`: Choose between competing concepts against criteria fixed in advance, and record what each rejected concept was testing. Use when several directions are alive and one has to win.
+- `content-strategy`: Define what content a product needs, how it is structured, and who owns it. Use when content itself is the problem.
+- `continuous-discovery`: Build a weekly cadence of customer touchpoints using Opportunity Solution Trees, assumption mapping, and interview snapshots. Use when the user mentions "continuous discovery", "opportunity solution tree", "weekly interviews", "assumption testing", "discove...
+- `conversational-ux`: Design voice and conversational interfaces — dialog flows, error recovery, and persona. Use when the interface speaks and listens rather than being tapped.
+- `critique-affordance`: Critique a rendered screen's affordances — what looks clickable, state visibility, CTA clarity, and action discoverability. Use when reviewing an existing screen.
+- `critique-brand-consistency`: Critique a rendered screen against mood.md, voice.md, and tokens.md. Use when those brand files exist and you are checking compliance.
+- `critique-color`: Critique a rendered screen's colour — contrast ratios, palette coherence, and semantic meaning. Use when reviewing one screen.
+- `critique-composition`: Critique a rendered screen's composition — balance, whitespace, rhythm, and gestalt grouping. Use when a layout feels off but hierarchy is fine.
+- `critique-information-density`: Critique a rendered screen's density — cognitive load, content prioritisation, scanning patterns, and progressive disclosure. Use when a screen feels overwhelming.
+- `critique-typography`: Critique a rendered screen's typography — scale usage, readability, consistency, and token compliance. Use when reviewing type on a screen.
+- `critique-visual-hierarchy`: Critique a rendered screen's hierarchy — entry point, eye flow, weight distribution, and emphasis. Use when attention lands in the wrong place.
+- `dark-mode-design`: Adapt an existing palette to dark mode — surface elevation, contrast rebalancing, and desaturation rules. Use when you already have a light palette to translate.
+- `data-visualization`: Select chart types and design data encodings — marks, axes, labels, and accessible chart styling. Use when presenting data graphically.
+- `design-brief`: Write a project brief — problem space, constraints, audience, and success criteria. Use at kickoff for one specific project.
+- `design-critique`: Facilitate a structured team critique — framing, feedback rules, and actionable outcomes. Use when running a session with people in the room.
+- `design-debt-audit`: Inventory and prioritise accumulated design inconsistencies across a product. Use when drift has built up over time.
+- `design-everyday-things`: Apply foundational design principles: affordances, signifiers, constraints, feedback, and conceptual models. Use when the user mentions "why is this confusing", "affordance", "error prevention", "discoverability", "human-centered design", "mental model", "m...
+- `design-impact-reporting`: Communicate design's contribution to business and user outcomes in stakeholder language. Use when reporting results upward.
+- `design-negotiation`: Advocate for design quality, scope, and timeline with partners and leadership using evidence and shared goals. Use in the conversation itself.
+- `design-principles`: Define actionable principles that resolve trade-offs when the team disagrees. Use when the same decisions keep getting relitigated.
+- `design-qa-checklist`: Build a QA checklist for verifying that a build matches the design. Use at implementation review.
+- `design-rationale`: Write rationale connecting decisions to user needs, business goals, and principles. Use when a decision needs defending in writing.
+- `design-review-process`: Establish review gates — criteria, checkpoints, and approval flow. Use when work ships without consistent review.
+- `design-sprint`: Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user mentions "design sprint", "validate before we build", "rapid prototype", "test with users", or "should we build this".
+- `design-sprint-plan`: Plan and facilitate a design sprint from challenge framing through prototype testing. Use when compressing discovery into days.
+- `design-system`: Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation.
+- `design-system-adoption`: Create adoption strategy and enablement materials to drive design system usage. Use when the system exists but teams ignore it.
+- `design-system-governance`: Define how the system evolves — contribution model, versioning, deprecation, and change management. Use when multiple teams contribute.
+- `design-taste-frontend`: tasteskill v2, the anti-slop frontend skill. Art direction for websites, distilled from a study of 247 curated gallery sites (One Page Love, Awwwards Sites of the Day).
+- `design-token`: Define and organise tokens for colour, spacing, type, and elevation with naming and usage rules. Use when establishing the token layer.
+- `design-token-audit`: Audit token usage across a product for coverage, drift, and hard-coded values. Use when tokens exist and you suspect they are being bypassed.
+- `diary-study-plan`: Design a diary study — prompts, cadence, duration, participant criteria, and analysis frame. Use when behaviour unfolds over days or weeks.
+- `documentation-template`: Generate a reusable documentation scaffold for components, patterns, or guidelines. Use when standardising how the system is documented.
+- `doherty-threshold`: Apply the Doherty Threshold — keep system response under 400ms to preserve user flow. Use when diagnosing perceived slowness or setting a performance budget.
+- `empathy-map`: Build a Says, Thinks, Does, Feels map for one user or segment. Use when sharing user understanding quickly.
+- `error-handling-ux`: Design error prevention, detection, and recovery across a product — message content, placement, and escape routes. Use when errors span multiple flows.
+- `experience-map`: Map the full ecosystem of touchpoints, channels, and relationships across a service. Use when the experience spans more than one product.
+- `feedback-patterns`: Design confirmations, status updates, and notifications that tell users an action registered. Use when the system must acknowledge success or change.
+- `fitts-law`: Apply Fitts's Law — target acquisition time depends on size and distance. Use when sizing and positioning controls, especially for touch.
+- `form-design`: Design a form end to end — field order, grouping, validation, and completion. Use when the artifact is a form.
+- `gesture-patterns`: Design gesture interactions for touch and pointer — swipe, drag, long-press, and their discoverability. Use when input is gestural.
+- `hallmark`: Design skill for websites and new pages that look designed, not generated. Use when the user asks to build or design something new, or names Hallmark.
+- `handoff-spec`: Write the implementation handoff — measurements, behaviours, assets, states, and edge cases. Use when engineering picks up the work.
+- `heuristic-evaluation`: Run an expert review against Nielsen's heuristics and domain criteria, with severity ratings. Use when you need findings without recruiting participants.
+- `hicks-law`: Apply Hick's Law — decision time grows with the number of simultaneous choices. Use when a screen offers too many options at once.
+- `hooked-ux`: Design habit-forming product loops using the Hook Model (Trigger, Action, Variable Reward, Investment). Use when the user mentions "users arent coming back", "habit formation", "engagement loops", "habit zone", or "the manipulation matrix".
+- `icon-system`: Specify an icon system — grid, sizing, stroke weight, naming, categories, and implementation. Use when standardising iconography.
+- `illustration-style`: Define an illustration style guide — visual language, colour usage, and application rules. Use when commissioning or standardising illustration.
+- `impeccable`: Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend interface: websites, landing pages, dashboards, product UI, components, forms, settings, onboarding, empty states, and na...
+- `information-architecture`: Design content structure, hierarchy, labelling, and the navigation model. Use when organising what exists.
+- `inspired-product`: Build empowered product teams using discovery and delivery dual-track. Use when the user mentions "product discovery", "empowered teams", "feature factory", "opportunity assessment", "product vision", "product strategy", "what should we build", or "our road...
+- `interface-design`: Craft-first interface design for dashboards, admin panels, SaaS apps, tools, settings pages, data interfaces, and interactive products. Use when designing, building, reviewing, auditing, or refining product UI where visual craft, layout hierarchy, tokens, s...
+- `interfaces-that-feel`: Apply an emotional resonance lens to a UI that is technically correct but flat, prescribing changes at the copy, motion, and interaction layer. Use when a design tests fine but lands cold.
+- `interview-script`: Write a structured interview guide — warm-up, core exploration, and wrap-up. Use before running interviews.
+- `ios-hig-design`: Design native iOS interfaces following Apple Human Interface Guidelines. Use when the user mentions "iPhone app", "iPad layout", "SwiftUI", "UIKit", "Dynamic Island", "safe areas", "HIG compliance", "SF Symbols", "haptic feedback", "iOS accessibility", "mak...
+- `jakobs-law`: Apply Jakob's Law — users expect your product to work like the others they already use. Use when deciding whether to innovate on a familiar pattern.
+- `jobs-to-be-done`: Map functional, emotional, and social jobs with outcome expectations. Use when reframing decisions around motivation rather than features.
+- `journey-map`: Map one persona's end-to-end experience with stages, touchpoints, emotions, and pain points. Use when improving an existing experience.
+- `law-of-closure`: Apply the Law of Closure — the eye completes implied shapes from partial forms. Use when reducing visual weight by dropping borders or letting negative space suggest structure.
+- `law-of-common-region`: Apply the Law of Common Region — a shared container, background, or border groups elements regardless of spacing. Use when grouping must survive a tight layout.
+- `law-of-continuity`: Apply the Law of Continuity — the eye follows alignment and unbroken paths. Use when sequencing steps, aligning content, or designing carousels and timelines.
+- `law-of-figure-ground`: Apply the Law of Figure-Ground — establish which layer is foreground and actionable versus background. Use when designing modals, overlays, and depth.
+- `law-of-proximity`: Apply the Law of Proximity — spatial closeness groups elements more strongly than any other cue. Use when spacing alone must carry grouping.
+- `law-of-similarity`: Apply the Law of Similarity — shared colour, shape, or size signals that elements belong to one category. Use when signalling relationships across distance.
+- `layout-grid`: Define a responsive grid — columns, gutters, margins, and breakpoint behaviour. Use when establishing page structure.
+- `lean-ux`: Apply lean thinking to UX: hypothesis-driven design, collaborative sketching, and rapid experiments instead of heavy deliverables. Use when the user mentions "Lean UX", "design hypothesis", "outcome over output", "design studio method", "assumption mapping"...
+- `loading-states`: Design waiting experiences — spinners, skeletons, optimistic updates, and progressive reveal. Use when content takes time to arrive.
+- `localization-design`: Design for multiple languages, writing directions, and cultural contexts — text expansion, RTL mirroring, and locale formats. Use when shipping beyond one locale.
+- `metrics-definition`: Define UX metrics and KPIs that connect design decisions to measurable outcomes. Use when choosing what to measure.
+- `micro-interaction-spec`: Specify one micro-interaction completely — trigger, rules, feedback, loops, and modes. Use when handing a single interaction to engineering.
+- `microinteractions`: Design the small details -- triggers, rules, feedback, loops and modes -- that separate good products from great ones. Use when the user mentions "microinteraction", "button feedback", "loading state", "toggle design", "animation detail", "state transitions...
+- `millers-law`: Apply Miller's Law — chunk information into groups of about four to fit working memory. Use when grouping fields, menu items, or steps.
+- `mom-test`: Talk to customers without leading them using Mom Test rules: discuss their life not your idea, ask about specifics in the past, and talk less. Use when the user mentions "customer interviews", "validate my idea", "users say they want it but dont buy", "lead...
+- `motion-system`: Define motion tokens — durations, easing vocabulary, and reduced-motion handling — for consistency product-wide. Use when standardising motion across a system.
+- `naming-convention`: Establish naming rules for components, tokens, and layers with patterns and worked examples. Use when names are inconsistent or being set.
+- `navigation-patterns`: Select and design a navigation pattern — tabs, drawer, hierarchy, or hub — matched to product structure and user tasks. Use when choosing how users move between sections.
+- `north-star-vision`: Articulate a long-horizon product vision that aligns teams and anchors strategy. Use when direction is contested or absent.
+- `onboarding-design`: Design the first-run experience — activation path, progressive disclosure, and time to first value. Use for a user's very first session.
+- `opportunity-framework`: Identify, score, and prioritise design opportunities against impact and effort. Use when there are more ideas than capacity.
+- `parallel-concepts`: Build several genuinely different solutions to the same problem at once, spread across what the user does rather than how it looks. Use when one direction is on the table and the team is about to refine it by default.
+- `pattern-library`: Structure a pattern entry — problem context, solution, usage examples, and related patterns. Use when documenting a recurring solution rather than a component.
+- `peak-end-rule`: Apply the Peak-End Rule — a flow is remembered by its most intense moment and its last. Use when designing completion, celebration, or cancellation moments.
+- `platform-conventions`: Design to iOS and Android conventions — what each OS mandates, where they diverge, and when to unify. Use when shipping native apps.
+- `presentation-deck`: Structure a design presentation for a specific audience and decision. Use when presenting internally.
+- `prototype-strategy`: Choose prototype fidelity and method to match the design question and the decision at stake. Use before building a prototype.
+- `qual-quant-triangulation`: Reconcile what the numbers say with what users say, and design the study that settles it rather than restates it. Use when behavioural data and research findings point different ways.
+- `readable-measure`: Set line length and measure for comfortable reading across type sizes and breakpoints. Use when tuning body text.
+- `refactoring-ui`: Audit and fix visual hierarchy, spacing, color, and depth in web UIs. Use when the user mentions "my UI looks off" (or amateur/unprofessional), "fix the design", "Tailwind styling", "color palette", "visual hierarchy", "design system", "spacing scale", or "...
+- `research-repository`: Build a repository that makes findings findable, reusable, and cumulative across teams. Use when the same research keeps getting redone.
+- `responsive-design`: Design layouts and interactions that adapt across screen sizes and input methods. Use when one design must serve many viewports.
+- `search-ux`: Design search — query input, zero results, refinement, and result presentation. Use when users retrieve rather than browse.
+- `serial-position-effect`: Apply the Serial Position Effect — first and last items in a sequence are recalled best. Use when ordering menus, lists, and steps.
+- `service-blueprint`: Map service delivery across frontstage actions, backstage processes, and supporting systems. Use when staff and operations are part of the experience.
+- `spacing-system`: Create a spacing scale from a base unit with rules for when each step applies. Use when standardising padding and margins.
+- `stakeholder-alignment`: Build alignment artifacts — responsibility matrices, decision rights, and communication plans. Use when unclear ownership stalls decisions.
+- `state-machine`: Model component behaviour as explicit states, events, and transitions. Use when a component has many interacting states that must be exhaustive.
+- `steve-jobs-design-review`: Review designs, products, and features with Steve Jobs'' standards: ruthless simplicity, focus, and end-to-end excellence. Use when the user mentions "Steve Jobs review", "design review", "product review", "what would Steve do", "insanely great", "this feel...
+- `summarize-interview`: Turn one interview transcript into themes, supporting quotes, and action items. Use immediately after a session.
+- `survey-design`: Design unbiased survey instruments — question wording, scales, and sampling — to measure attitudes at scale. Use when you need quantitative breadth.
+- `team-workflow`: Design the team's operating rhythm — task management, collaboration rituals, and tooling. Use when the day-to-day cadence needs structure.
+- `teslers-law`: Apply Tesler's Law — every process has irreducible complexity that someone must absorb. Use when deciding whether the product or the user carries it.
+- `test-scenario`: Write realistic usability task scenarios with success criteria and facilitation notes. Use when you have a study and need the tasks.
+- `theme-factory`: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc.
+- `theming-system`: Design theming architecture — brand variants, dark mode, and high-contrast — mapped through token layers. Use when one system must serve multiple themes.
+- `thinkfull`: Use when tackling any digital project challenge — websites, SaaS, apps, brands, AI systems, landing pages, growth strategy, UX/UI, motion design, architecture, or conversion optimization. Activates the full multidisciplinary thinking studio framework.
+- `top-design`: Create award-winning, immersive web experiences at the level of Awwwards-featured agencies. Use when the user mentions "Awwwards quality", "make my site stunning", "scroll animations", "parallax storytelling", "cinematic web design", "portfolio site", or "b...
+- `typography-scale`: Create a modular type scale with size, weight, and line-height relationships. Use when establishing typographic structure.
+- `ui-styling`: Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive l...
+- `ui-ux-pro-max`: UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, chart...
+- `usability-test-plan`: Design a usability study — research questions, methodology, participant criteria, metrics, and facilitation guide. Use when planning the study as a whole.
+- `user-flow-diagram`: Diagram screen-level paths, decision points, and branch logic. Use when specifying how a feature is traversed.
+- `user-persona`: Build research-grounded personas with goals, frustrations, and behavioural patterns. Use when decisions need a consistent user reference.
+- `ux-heuristics`: Evaluate and improve interface usability using heuristic analysis. Use when the user mentions "usability audit", "users are confused", "form usability", "navigation problems", "Nielsen heuristics", "cognitive walkthrough", or "is this easy to use".
+- `ux-writing`: Write interface copy — microcopy, error messages, empty states, and CTAs. Use when the words are the deliverable.
+- `version-control-strategy`: Define version control for design files, components, and libraries — branching, naming, and release. Use when file history is chaotic.
+- `visual-hierarchy`: Establish hierarchy through size, weight, colour, spacing, and position so the eye lands in the intended order. Use when composing new work.
+- `von-restorff-effect`: Apply the Von Restorff Effect — the element that differs from its neighbours is the one remembered. Use when a single action must dominate.
+- `web-design-guidelines`: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".
+- `web-typography`: Select, pair, and implement typefaces for web projects. Use when the user mentions "font pairing", "which typeface", "line height", "responsive typography", "web font loading", "type hierarchy", "variable fonts", "FOUT/FOIT", "typographic scale", or "the te...
+- `wireframe-spec`: Specify wireframe layout — content priority, component placement, and annotation. Use when defining structure before visual design.
+- `zeigarnik-effect`: Apply the Zeigarnik Effect — incomplete tasks stay mentally active. Use when designing progress indicators, saved drafts, and return hooks.
+- `landing-page-design`: Complete system for high converting landing pages: intake, structure, copy, SEO and strict visual rules (type, spacing, radius, motion). Use for any landing page, marketing site or web UI build.
+- `design-to-motion`: Turns a static design (Figma frame, dashboard, cards, hero) into an exact HTML replica that loads in and loops, exported as MP4 and GIF. Use for "animate this design".
+- `frontend-design`: Built in guidance for distinctive, intentional visual design when building new UI. Light fallback when no more specific skill fits.
+- `reels-director`: One sentence to a finished Instagram Reel: current topic research, script, montage plan, Remotion render. Use for any short video or Reel request.
